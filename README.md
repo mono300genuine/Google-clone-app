@@ -14,7 +14,6 @@ NextAuth, React Icons, Vercel Hosting (mobile-friendly).
 - [Inspiration](#inspiration)
 - [Related Projects](#Related_Projects)
 - [Support](#Support)
-- [Feedback](#Feedback)
 - [Run Locally](#Run_Locally)
 - [Environment Variables](#Environment)
 - [Screenshots](#Screenshots)
@@ -56,29 +55,6 @@ NextAuth, React Icons, Vercel Hosting (mobile-friendly).
 # Contributing
 
 Contributions are always welcome!
-
-# Support
-
-For support, email saddamarbaas@gmail.com.
-
-# Feedback
-
-If you have any feedback, please reach out to me at saddamarbaas@gmail.com
-
-Twitter
-https://twitter.com/ArbaaSaddam/
-
-Linkedin.
-https://www.linkedin.com/in/saddamarbaa/
-
-Github
-https://github.com/saddamarbaa
-
-Instagram
-https://www.instagram.com/saddam.dev/
-
-Facebook
-https://www.facebook.com/saddam.arbaa
 
 # Run_Locally
 
